@@ -1,0 +1,26 @@
+.password{
+  margin: 20px 40px ;
+  border: 3px solid rgb(99, 12, 140);
+  padding: 20px 30px;
+  background-color: rgb(244, 203, 241);
+  
+  
+}
+.checkbox{
+  padding: 20px 0px;
+
+
+}
+.generator{
+  padding: 10px 0px;
+  width: 350px;
+}
+.num{
+  width: 300px;
+}
+.special{
+  width: 300px;
+}
+.option {
+  font-size: 18px;
+}
